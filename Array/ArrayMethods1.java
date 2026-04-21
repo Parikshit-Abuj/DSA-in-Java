@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Application {
+public class ArrayMethods1 {
 
     public static void main(String[] args) {
 
